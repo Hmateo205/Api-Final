@@ -24,8 +24,8 @@ namespace apiBodega.Data
                 new User
                 {
                     IdUser = 1,
-                    UserMail = "rick1234@gmail.com",
-                    UserPassword = "admin4321",
+                    UserMail = "Hmateo@gmail.com",
+                    UserPassword = "admin1234",
                     
                 },
                 
