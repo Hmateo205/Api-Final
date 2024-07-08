@@ -11,8 +11,8 @@ using apiBodega.Data;
 namespace apiBodega.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20240708041745_DBFinal")]
-    partial class DBFinal
+    [Migration("20240708123657_Final")]
+    partial class Final
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

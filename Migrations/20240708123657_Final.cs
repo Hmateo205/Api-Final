@@ -7,7 +7,7 @@
 namespace apiBodega.Migrations
 {
     /// <inheritdoc />
-    public partial class DBFinal : Migration
+    public partial class Final : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
