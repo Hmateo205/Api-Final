@@ -11,8 +11,8 @@ using apiBodega.Data;
 namespace apiBodega.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20231205062828_Pedidos")]
-    partial class Pedidos
+    [Migration("20240708041745_DBFinal")]
+    partial class DBFinal
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -178,8 +178,8 @@ namespace apiBodega.Migrations
                         new
                         {
                             IdUser = 1,
-                            UserMail = "rick1234@gmail.com",
-                            UserPassword = "admin4321"
+                            UserMail = "Hmateo@gmail.com",
+                            UserPassword = "admin1234"
                         },
                         new
                         {
